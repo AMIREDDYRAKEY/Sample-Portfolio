@@ -1,5 +1,4 @@
-
- import React from 'react'
+import React from 'react'
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import img1 from './assets/person-f-8.webp'
