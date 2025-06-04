@@ -9,7 +9,7 @@ import "./style.css"
 import { Pagination,Autoplay } from 'swiper/modules';
 const Testmonials = () => {
     return (
-        <div className='pb-[50px]'>
+        <div className='pb-[50px] min-h-screen'>
             {/* header */}
             <div>
                 <h2 className='text-center pt-[40px] text-4xl text-[#6e4a3b]'>Testmonials</h2>
@@ -32,7 +32,7 @@ const Testmonials = () => {
                     }}
                     loop={true}
                 >
-                    <SwiperSlide className=' flex flex-col-reverse lg:flex lg:flex-row justify-around rounded-3xl'>
+                    <SwiperSlide className=' flex flex-col-reverse lg:flex lg:flex-row md:justify-around rounded-3xl'>
                         <div className='text-black h-[160px] lg:h-none lg:mt-[-180px] lg:ml-[0px] ml-[10px] mt-[-0px] flex flex-col gap-5 items-start justify-start   ' >
                      <h2  className='lg:text-2xl text-md  font-semibold text-[#1a334d] ' >Labore nostrum eos impedit</h2>
                      <i><p className='text-start lg:w-none w-[100%] lg:w-[90%] text-[11px] lg:text-[14px] lg:mt-[0px] mt-[-20px]  text-[#717477]'>
@@ -51,7 +51,7 @@ const Testmonials = () => {
                              <img src={img1} alt="" className=' rounded-xl' />
                         </div>
                     </SwiperSlide>
-                      <SwiperSlide className=' flex flex-col-reverse lg:flex lg:flex-row justify-around rounded-3xl'>
+                      <SwiperSlide className=' flex flex-col-reverse lg:flex lg:flex-row md:justify-around rounded-3xl'>
                         <div className='text-black h-[160px] lg:h-none lg:mt-[-180px] lg:ml-[0px] ml-[10px] mt-[-0px] flex flex-col gap-5 items-start justify-start   ' >
                      <h2  className='lg:text-2xl text-md  font-semibold text-[#1a334d] ' >Labore nostrum eos impedit</h2>
                      <i><p className='text-start lg:w-none w-[100%] lg:w-[90%] text-[11px] lg:text-[14px] lg:mt-[0px] mt-[-20px]  text-[#717477]'>
@@ -70,7 +70,7 @@ const Testmonials = () => {
                              <img src={img2} alt="" className=' rounded-xl' />
                         </div>
                     </SwiperSlide>
-                      <SwiperSlide className=' flex flex-col-reverse lg:flex lg:flex-row justify-around rounded-3xl'>
+                      <SwiperSlide className=' flex flex-col-reverse lg:flex lg:flex-row md:justify-around rounded-3xl'>
                         <div className='text-black h-[160px] lg:h-none lg:mt-[-180px] lg:ml-[0px] ml-[10px] mt-[-0px] flex flex-col gap-5 items-start justify-start   ' >
                      <h2  className='lg:text-2xl text-md  font-semibold text-[#1a334d] ' >Labore nostrum eos impedit</h2>
                      <i><p className='text-start lg:w-none w-[100%] lg:w-[90%] text-[11px] lg:text-[14px] lg:mt-[0px] mt-[-20px]  text-[#717477]'>
