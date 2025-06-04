@@ -8,6 +8,7 @@
  import Services from './services'
  import Questions from './questions'
  import Contact from './contact'
+ import About from "./About"
  import Footer from './footer'
  const App = () => {
    return (

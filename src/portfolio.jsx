@@ -56,7 +56,7 @@ const portfolio = () => {
                 </div>
                  <div className='  gap-4 lg:flex lg:flex-row flex flex-col  items-center justify-center'>
                <div className='shadow-xl rounded-lg h-[350px] w-[90%] lg:h-[450px] lg:w-[600px]'>
-                    <img src={img1} alt="" className='rounded-lg h-[200px] lg:h-[300px] lg:w-[600px]' />
+                    <img src={img2} alt="" className='rounded-lg h-[200px] lg:h-[300px] lg:w-[600px]' />
                     <div className='mt-[10px]  flex flex-col gap-2 px-6'>
                         <p className='text-sm uppercase text-[#e8753f]'>Web Design</p>
                         <h1 className='lg:text-2xl text-md text-[#0f2943] font-semibold'>Modern Dashboard Interface</h1>
@@ -64,7 +64,7 @@ const portfolio = () => {
                     </div>
                 </div>
                  <div className='shadow-xl rounded-lg h-[350px] w-[90%] lg:h-[450px] lg:w-[550px]'>
-                    <img src={img3} alt="" className='rounded-lg lg:h-[300px] lg:w-[600px]' />
+                    <img src={img4} alt="" className='rounded-lg lg:h-[300px] lg:w-[600px]' />
                     <div className='mt-[10px]  flex flex-col gap-2 px-6'>
                         <p className='text-sm uppercase text-[#e8753f]'>Web Design</p>
                         <h1 className='lg:text-2xl text-md text-[#0f2943] font-semibold'>Modern Dashboard Interface</h1>
@@ -74,7 +74,7 @@ const portfolio = () => {
                 </div>
                  <div className='  gap-4 lg:flex lg:flex-row flex flex-col  items-center justify-center'>
                <div className='shadow-xl rounded-lg h-[350px] w-[90%] lg:h-[450px] lg:w-[600px]'>
-                    <img src={img1} alt="" className='rounded-lg h-[200px] lg:h-[300px] lg:w-[600px]' />
+                    <img src={img5} alt="" className='rounded-lg h-[200px] lg:h-[300px] lg:w-[600px]' />
                     <div className='mt-[10px]  flex flex-col gap-2 px-6'>
                         <p className='text-sm uppercase text-[#e8753f]'>Web Design</p>
                         <h1 className='lg:text-2xl text-md text-[#0f2943] font-semibold'>Modern Dashboard Interface</h1>
@@ -82,7 +82,7 @@ const portfolio = () => {
                     </div>
                 </div>
                  <div className='shadow-xl rounded-lg h-[350px] w-[90%] lg:h-[450px] lg:w-[550px]'>
-                    <img src={img3} alt="" className='rounded-lg lg:h-[300px] lg:w-[600px]' />
+                    <img src={img6} alt="" className='rounded-lg lg:h-[300px] lg:w-[600px]' />
                     <div className='mt-[10px]  flex flex-col gap-2 px-6'>
                         <p className='text-sm uppercase text-[#e8753f]'>Web Design</p>
                         <h1 className='lg:text-2xl text-md text-[#0f2943] font-semibold'>Modern Dashboard Interface</h1>
@@ -106,7 +106,7 @@ const portfolio = () => {
                     </div>
                 </div>
                  <div className='shadow-xl rounded-lg h-[350px] w-[90%] lg:h-[450px] lg:w-[550px]'>
-                    <img src={img3} alt="" className='rounded-lg lg:h-[300px] lg:w-[600px]' />
+                    <img src={img2} alt="" className='rounded-lg lg:h-[300px] lg:w-[600px]' />
                     <div className='mt-[10px]  flex flex-col gap-2 px-6'>
                         <p className='text-sm uppercase text-[#e8753f]'>Web Design</p>
                         <h1 className='lg:text-2xl text-md text-[#0f2943] font-semibold'>Modern Dashboard Interface</h1>
@@ -116,7 +116,7 @@ const portfolio = () => {
                 </div>
                  <div className='  gap-4 lg:flex lg:flex-row flex flex-col  items-center justify-center'>
                <div className='shadow-xl rounded-lg h-[350px] w-[90%] lg:h-[450px] lg:w-[600px]'>
-                    <img src={img1} alt="" className='rounded-lg h-[200px] lg:h-[300px] lg:w-[600px]' />
+                    <img src={img3} alt="" className='rounded-lg h-[200px] lg:h-[300px] lg:w-[600px]' />
                     <div className='mt-[10px]  flex flex-col gap-2 px-6'>
                         <p className='text-sm uppercase text-[#e8753f]'>Web Design</p>
                         <h1 className='lg:text-2xl text-md text-[#0f2943] font-semibold'>Modern Dashboard Interface</h1>
@@ -124,7 +124,7 @@ const portfolio = () => {
                     </div>
                 </div>
                  <div className='shadow-xl rounded-lg h-[350px] w-[90%] lg:h-[450px] lg:w-[550px]'>
-                    <img src={img3} alt="" className='rounded-lg lg:h-[300px] lg:w-[600px]' />
+                    <img src={img4} alt="" className='rounded-lg lg:h-[300px] lg:w-[600px]' />
                     <div className='mt-[10px]  flex flex-col gap-2 px-6'>
                         <p className='text-sm uppercase text-[#e8753f]'>Web Design</p>
                         <h1 className='lg:text-2xl text-md text-[#0f2943] font-semibold'>Modern Dashboard Interface</h1>
@@ -134,7 +134,7 @@ const portfolio = () => {
                 </div>
                  <div className='  gap-4 lg:flex lg:flex-row flex flex-col  items-center justify-center'>
                <div className='shadow-xl rounded-lg h-[350px] w-[90%] lg:h-[450px] lg:w-[600px]'>
-                    <img src={img1} alt="" className='rounded-lg h-[200px] lg:h-[300px] lg:w-[600px]' />
+                    <img src={img5} alt="" className='rounded-lg h-[200px] lg:h-[300px] lg:w-[600px]' />
                     <div className='mt-[10px]  flex flex-col gap-2 px-6'>
                         <p className='text-sm uppercase text-[#e8753f]'>Web Design</p>
                         <h1 className='lg:text-2xl text-md text-[#0f2943] font-semibold'>Modern Dashboard Interface</h1>
@@ -142,7 +142,7 @@ const portfolio = () => {
                     </div>
                 </div>
                  <div className='shadow-xl rounded-lg h-[350px] w-[90%] lg:h-[450px] lg:w-[550px]'>
-                    <img src={img3} alt="" className='rounded-lg lg:h-[300px] lg:w-[600px]' />
+                    <img src={img6} alt="" className='rounded-lg lg:h-[300px] lg:w-[600px]' />
                     <div className='mt-[10px]  flex flex-col gap-2 px-6'>
                         <p className='text-sm uppercase text-[#e8753f]'>Web Design</p>
                         <h1 className='lg:text-2xl text-md text-[#0f2943] font-semibold'>Modern Dashboard Interface</h1>

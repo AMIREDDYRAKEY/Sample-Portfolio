@@ -17,7 +17,7 @@ const Questions = () => {
                             <FaAngleRight className={`${active ? 'rotate-90' : 'rotate-0'} transition-transform duration-300`} />
                         </button>
                     </div>
-                    <div class>{
+                    <div>{
                         active && (
                             <p className='text-[#0a295d] px-8  text-lg mt-[20px] '>{answer} </p>
                         )

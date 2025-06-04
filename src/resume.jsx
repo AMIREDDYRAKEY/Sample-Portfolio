@@ -13,7 +13,7 @@ const Resume = () => {
         </div>
         {/* experinece */}
         <div className='mt-[50px]  lg:mt-[100px] ml-[20px] lg:ml-[90px] flex flex-col gap-3'>
-            <h3 class=" text-2xl lg:text-5xl text-[#0f2943] font-semibold">Work Experience</h3>
+            <h3 className=" text-2xl lg:text-5xl text-[#0f2943] font-semibold">Work Experience</h3>
             <p className=' text-lg lg:text-xl font-thin text-[#6c6f72]'>Maecenas tempus tellus eget condimentum rhoncus sem quam semper libero sit amet adipiscing sem neque sed ipsum.</p>
         </div>
         <div className='flex flex-col gap-3 lg:flex lg:ml-[0px] ml-[20px] lg:flex-row lg:gap-[5rem] mt-[40px]'>
@@ -33,7 +33,7 @@ const Resume = () => {
                  
             </div>
             <div className='lg-mt-[0px]'>
-                <div className=' hidden lg:flex h-[500px] mt-[-6px] bg-[#fcece1] w-[3px] flex flex-col gap-[8rem] '>
+                <div className=' hidden lg:flex h-[500px] mt-[-6px] bg-[#fcece1] w-[3px]  flex-col gap-[8rem] '>
                     <div className=' bg-[#e87532] h-[15px] mt-[10px] w-[15px] ml-[-7px] rounded-full'></div>
                      <div className=' bg-[#e87532] h-[15px] w-[15px] ml-[-7px] rounded-full'></div>
                       <div className=' bg-[#e87532] h-[15px] w-[15px] ml-[-7px] mt-[90px] rounded-full'></div>
@@ -81,7 +81,7 @@ const Resume = () => {
   </div>
 
   {/* Timeline vertical line with dots */}
-  <div className="relative hidden lg:block h-[300px] mt-[-6px] w-[3px] bg-[#fcece1] flex flex-col items-center gap-[6.4rem]">
+  <div className="relative hidden lg:block h-[300px] mt-[-6px] w-[3px] bg-[#fcece1]  flex-col items-center gap-[6.4rem]">
     <div className="bg-[#e87532] h-[15px] w-[15px] mt-[10px] rounded-full absolute top-0 -left-[6px]"></div>
     <div className="bg-[#e87532] h-[15px] w-[15px] rounded-full absolute top-[120px] -left-[6px]"></div>
     <div className="bg-[#e87532] h-[15px] w-[15px] rounded-full absolute top-[240px] -left-[6px]"></div>
