@@ -3,7 +3,7 @@ import { FaXTwitter } from "react-icons/fa6";
 import { FaFacebook } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
-import { IoClose } from "react-icons/io5"; 
+import { IoCloseOutline } from "react-icons/io5";
 import { FiMenu } from "react-icons/fi";
 import { div, li, p } from 'framer-motion/client';
 const Navbar = () => {
@@ -52,7 +52,7 @@ const Navbar = () => {
         </div>
          {menuOpen && (
         <div className={` fixed top-[0px] left-0 h-full lg:hidden ml-[5px] w-[90%] bg-white shadow-md z-50 transition-all duration-300`}>
-             <div className=' text-4xl cursor-pointer text-[#0f2943]flex justify-end mt-[20px] mr-[30px]'><IoClose onClick={openlists}   /></div>
+             <div className=' text-4xl cursor-pointer text-[#0f2943] flex justify-end mt-[20px] mr-[30px]'><IoCloseOutline onClick={openlists} /></div>
           <ul className=' h-[300px] flex flex-col gap-[4rem] items-start p-10  text-[#0A0F14] font-poppins  text-2xl'>
             <li className='hover:text-[#e97a3a]'>{lists.Home}</li>
             <li className='hover:text-[#e97a3a]'>{lists.About}</li>
