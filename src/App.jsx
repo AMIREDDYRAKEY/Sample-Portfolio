@@ -20,7 +20,7 @@
       <div className=''><Skills/></div>
       <div className=' '><Resume/></div>
       <div  className=' '><Portfolio/></div>
-      {/* <div className='min-h-screen bg-[#faf9fb]'><Testmonials/></div> */}
+      <div className='min-h-screen bg-[#faf9fb]'><Testmonials/></div>
       <div><Services/></div>
       <div><Questions/></div>
       <div><Contact/></div>
