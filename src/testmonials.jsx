@@ -66,7 +66,7 @@ const Testmonials = () => {
                         <p className='text-sm text-[#717477]'>Freelancer</p></div>
                     </div>
                     </div>
-                        <div className=' h-[250px] w-[100%] mt-[-190px] lg:mt-[0px] lg:h-[400px] lg:ml-[60px] roundend-xl lg:w-[350px]'>
+                        <div className=' h-[250px] w-[100%] mt-[-100px] lg:mt-[0px] lg:h-[400px] lg:ml-[60px] roundend-xl lg:w-[350px]'>
                              <img src={img2} alt="" className=' rounded-xl' />
                         </div>
                     </SwiperSlide>
