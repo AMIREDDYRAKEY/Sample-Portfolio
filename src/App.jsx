@@ -2,7 +2,7 @@
  import Navbar from './navbar'
  import Hero from './hero'
  import Skills from './skills'
- import About from './About'
+//  import About from './About'
  import Resume from './resume'
  import Portfolio from './portfolio'
  import Testmonials from './testmonials'
@@ -16,7 +16,7 @@
       <div className='flex items-center justify-center'><Navbar/></div>
       <div className=' mt-[40p
       x] '><Hero/></div>
-      <div className='bg-[#faf9fb]'><About/></div>
+      {/* <div className='bg-[#faf9fb]'><About/></div> */}
       <div className=''><Skills/></div>
       <div className=' '><Resume/></div>
       <div  className=' '><Portfolio/></div>
