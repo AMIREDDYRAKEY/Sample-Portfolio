@@ -2,7 +2,6 @@
  import Navbar from './navbar'
  import Hero from './hero'
  import Skills from './skills'
- import About from './About'
  import Resume from './resume'
  import Portfolio from './portfolio'
  import Testmonials from './testmonials'
